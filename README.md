@@ -7,6 +7,16 @@
 - 💬 Ask me about **.Net, ReactJs, NextJs**
 - 📫 How to reach me **ntthau0963@gmail.com**
 
+
+
+<div align="center">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trunghau0963&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trunghau0963&show_icons=true&locale=en" alt="trunghau0963" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trunghau0963&" alt="trunghau0963" /></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=trunghau0963&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/hangu0963/" target="_blank">
@@ -34,10 +44,3 @@
 <!-- </div> -->
 
 ###  
-
-<div align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trunghau0963&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trunghau0963&show_icons=true&locale=en" alt="trunghau0963" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trunghau0963&" alt="trunghau0963" /></p>
-  <img src="https://github-profile-trophy.vercel.app/?username=trunghau0963&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
