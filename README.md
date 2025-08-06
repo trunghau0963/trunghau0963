@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tran Trung Hau</h1>
 <h3 align="center">A passionate software engineer from VietNam</h3>
+<div align="center">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trunghau0963&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+<!--   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trunghau0963&show_icons=true&locale=en" alt="trunghau0963" /></p> -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trunghau0963&" alt="trunghau0963" /></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=trunghau0963&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 - 🔭 I’m currently working on [Research Project Contributor – MO-PO RM (Mixed Reality Polymer Game)](https://studenthcmusedu-my.sharepoint.com/my?id=%2Fpersonal%2F21126063%5Fstudent%5Fhcmus%5Fedu%5Fvn%2FDocuments%2FLu%E1%BA%ADn&ga=1)
 - 🌱 I’m currently learning **.Net**
 - 👨‍💻 All of my projects are available at [https://trunghau-portfolio-create.vercel.app/](https://trunghau-portfolio-create.vercel.app/)
 - 💬 Ask me about **.Net, ReactJs, NextJs**
 - 📫 How to reach me **ntthau0963@gmail.com**
-
-
-
-<div align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trunghau0963&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trunghau0963&show_icons=true&locale=en" alt="trunghau0963" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trunghau0963&" alt="trunghau0963" /></p>
-  <img src="https://github-profile-trophy.vercel.app/?username=trunghau0963&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
