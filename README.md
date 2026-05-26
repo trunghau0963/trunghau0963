@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/haunguyen0963/?skipRedirect=true" target="_blank">
+  <a href="https://www.linkedin.com/in/haunguyen0963/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/trunghau0963" target="_blank">
